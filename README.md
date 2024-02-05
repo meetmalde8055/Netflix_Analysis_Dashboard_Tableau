@@ -11,7 +11,7 @@ The dashboard includes several visualizations, including:
 
 The dashboard is built using Tableau Public, a free platform for creating and sharing data visualizations. The Netflix dataset is included in the repository, along with a Tableau workbook file (.twbx) that contains the dashboard.
 
-![Screenshot 2023-06-26 044335](https://github.com/saharshahin/Tableau-Dashboard-for-Netflix-Website-Analysis/assets/134793881/b4341009-f9a9-4795-a7db-451cd20957a6)
+
 
 
 ## How to Use the Dashboard
