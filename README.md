@@ -1,44 +1,36 @@
-# Netflix_Analysis_Dashboard_Tableau
-This project explores the Netflix dataset using Tableau, a powerful data visualization tool. It aims to analyze and visualize various aspects of Netflix's content catalog and provide insights into the streaming platform.
+# Tableau Dashboard for Netflix Website Analysis
 
-Table of Contents
-Description
-Dataset
-Installation
-Usage
-Contributing
-License
-Description
-The Netflix Data Analysis project utilizes Tableau to create interactive visualizations and dashboards based on the Netflix dataset. It provides insights into different aspects such as content distribution, genres, release dates, and ratings.
+This repository contains a Tableau dashboard that visualizes data on movies and TV shows available on the Netflix website. The dashboard provides an interactive view of the data, allowing users to explore the data and gain insights into the types of content available on Netflix.
 
-The project includes various visualizations to answer questions like:
+The dashboard includes several visualizations, including:
 
-What are the most common genres in the Netflix library?
-How has the content distribution changed over the years?
-Which countries have the highest number of Netflix titles?
-What is the average rating of movies and TV shows on Netflix?
-Dataset
-The dataset used for this project is the Netflix Movies and TV Shows dataset available on Kaggle. It contains information about various movies and TV shows available on Netflix, including attributes like title, director, cast, country, release year, rating, and more.
+- Total Movies and TV Shows by Released Country: A map view that shows the total number of movies and TV shows available on Netflix by the country of release.
+- Total Movies and TV Shows by Year: A line chart that shows the total number of movies and TV shows available on Netflix by year of release.
+- Top 10 Genres: A bar chart that shows the top 10 genres of movies and TV shows available on Netflix.
+- Movies and TV Shows Distribution: A stacked bar chart that shows the distribution of movies and TV shows available on Netflix by type (movie or TV show) and by country of release.
 
-Installation
-To run this project locally, follow these steps:
+The dashboard is built using Tableau Public, a free platform for creating and sharing data visualizations. The Netflix dataset is included in the repository, along with a Tableau workbook file (.twbx) that contains the dashboard.
 
-Clone the repository: git clone https://github.com/shaadclt/Netflix-Data-Analysis-Tableau.git
-Navigate to the project directory: cd Netflix-Data-Analysis-Tableau
-Open Tableau and import the dataset (netflix_titles.csv) into your Tableau workspace.
-Explore the Tableau workbook (Netflix Dashboard.twbx) to view the visualizations and dashboards.
-Note: You need to have Tableau Desktop or Tableau Public installed to open and interact with the Tableau workbook.
+![Screenshot 2023-06-26 044335](https://github.com/saharshahin/Tableau-Dashboard-for-Netflix-Website-Analysis/assets/134793881/b4341009-f9a9-4795-a7db-451cd20957a6)
 
-Usage
-To use this project as a starting point for your own data analysis or to enhance the existing visualizations, you can:
 
-Open the Tableau workbook (Netflix Dashboard.twbx) in Tableau Desktop or Tableau Public.
-Modify the existing visualizations or create new ones based on your requirements.
-Customize the dashboards and layout to present your insights effectively.
-Feel free to experiment with different visualizations, filters, and parameters to derive additional insights from the Netflix dataset.
+## How to Use the Dashboard
 
-Contributing
-Contributions to this project are welcome! If you have any ideas, suggestions, or improvements, please feel free to submit a pull request. Make sure to provide a detailed description of your changes.
+To use the dashboard, follow these steps:
 
-License
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code and visualizations for personal or commercial purposes.
+1. Clone the repository to your local machine.
+2. Open the Tableau workbook file (.twbx) in Tableau Desktop or Tableau Public.
+3. Explore the dashboard by clicking on the different visualizations and interacting with the filters.
+4. Gain insights into the types of content available on Netflix and how they are distributed by country, year, and genre.
+
+## Data Sources
+
+The Netflix dataset used in this dashboard is publicly available and can be downloaded from [Kaggle](https://www.kaggle.com/shivamb/netflix-shows). The dataset contains data on movies and TV shows available on the Netflix website, including information on the title, cast, director, country of release, date added, and more.
+
+## License
+
+This repository is licensed under the MIT License. See the LICENSE file for more information.
+
+## Acknowledgments
+
+This dashboard was created using Tableau Public and the Netflix dataset. Special thanks to Tableau and Kaggle for providing the platform and the dataset for free.
