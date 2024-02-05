@@ -23,9 +23,13 @@ To use the dashboard, follow these steps:
 3. Explore the dashboard by clicking on the different visualizations and interacting with the filters.
 4. Gain insights into the types of content available on Netflix and how they are distributed by country, year, and genre.
 
+## Demo
+https://github.com/meetmalde8055/Netflix_Analysis_Dashboard_Tableau/assets/71314062/ad525057-f4d4-4337-99f9-d33de3c332f9
+
+
 ## Data Sources
 
-The Netflix dataset used in this dashboard is publicly available and can be downloaded from [Kaggle](https://www.kaggle.com/shivamb/netflix-shows). The dataset contains data on movies and TV shows available on the Netflix website, including information on the title, cast, director, country of release, date added, and more.
+The Netflix dataset used in this dashboard is publicly available and can be downloaded from [Kaggle]([https://www.kaggle.com/shivamb/netflix-shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)). The dataset contains data on movies and TV shows available on the Netflix website, including information on the title, cast, director, country of release, date added, and more.
 
 ## License
 
